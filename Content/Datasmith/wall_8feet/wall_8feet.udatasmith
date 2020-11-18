@@ -1,0 +1,30 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>4.25.4</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2019"/>
+	<User ID="f840d05b4c36e990b751ffae5370eebc" OS="Windows 10 (Release 1909)"/>
+	<StaticMesh name="M7a03bac2692f8d17e2cda1b0721ffd0e_1" label="SketchUp_Model">
+		<file path="wall_8feet_Assets/M7a03bac2692f8d17e2cda1b0721ffd0e_1.udsmesh"/>
+		<Size a="4192974.0" x="978.356628" y="1115.755981" z="243.839996"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="478e183efb39f70628a6724ce99290cc"/>
+		<Material id="31791" name="Color_000-G1cefcbfd5c337093cc7da225869414e8"/>
+	</StaticMesh>
+	<ActorMesh name="SU_1" label="Model" layer="Layer0">
+		<mesh name="M7a03bac2692f8d17e2cda1b0721ffd0e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.MODEL" />
+		<tag value="SU.PATH.0" />
+	</ActorMesh>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_000-G1cefcbfd5c337093cc7da225869414e8"  label="Color_000" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
